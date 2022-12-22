@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include gkdukaan *.css
+recursive-include gkdukaan *.csv
+recursive-include gkdukaan *.html
+recursive-include gkdukaan *.ico
+recursive-include gkdukaan *.js
+recursive-include gkdukaan *.json
+recursive-include gkdukaan *.md
+recursive-include gkdukaan *.png
+recursive-include gkdukaan *.py
+recursive-include gkdukaan *.svg
+recursive-include gkdukaan *.txt
+recursive-exclude gkdukaan *.pyc
