@@ -1,6 +1,6 @@
 ## gkdukaan
 
-gkdukaan
+bizmapgkdukaan
 
 #### License
 
